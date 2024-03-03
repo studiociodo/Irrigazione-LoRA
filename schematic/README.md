@@ -31,7 +31,7 @@ The module "module ingressi" where you can connect 16 contact with 24V AC:
 
 1X  [MCP23017-E/SP IC package DIP-28](https://www.tme.eu/it/details/mcp23017-e_sp/circuiti-integrati-interf-rimanenti/microchip-technology/)
 
-16X [LTV844 Optocoupler](https://www.tme.eu/it/details/ltv-844/optoisolatori-uscita-analogica/liteon/)
+4X [LTV844 Optocoupler](https://www.tme.eu/it/details/ltv-844/optoisolatori-uscita-analogica/liteon/)
 
 16X Resistor 680 Ohm 2W  - preferred metal oxide type!
 
