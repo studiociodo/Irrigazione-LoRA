@@ -3,6 +3,7 @@ In this folder you can view schematic made with [Fritzing](https://fritzing.org/
 The receiver must be sealed in a IP67 box, because must stay in the field!
 for select the module address you have to set the jumpers like reported on image below:
 
+![collegamenti dei moduli](https://github.com/studiociodo/Irrigazione-LoRA/assets/150088592/faf0b9af-6838-4400-84ab-dc516e07d047)
 
 
 The main board is "modulo MCU" that use:
