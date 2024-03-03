@@ -1,5 +1,6 @@
 # Schematics
 In this folder you can view schematic made with [Fritzing](https://fritzing.org/) and ready exported Gerber to upload for production facilities like JLCPCB, the size of the PCB was designed for this [DIN Rail Box](https://ebmstore.it/index.php?route=product/product&product_id=643).
+The receiver must be sealed in a IP67 box, because must stay in the field!
 for select the module address you have to set the jumpers like reported on image below:
 
 
@@ -33,7 +34,7 @@ The module "module ingressi" where you can connect 16 contact with 24V AC:
 
 4X [LTV844 Optocoupler](https://www.tme.eu/it/details/ltv-844/optoisolatori-uscita-analogica/liteon/)
 
-16X Resistor 680 Ohm 2W  - preferred metal oxide type!
+16X Metal-Oxide Resistor 680 Ohm 2W
 
 16X  Capacitor 100uF 10V
 
@@ -45,7 +46,7 @@ The module "module ingressi" where you can connect 16 contact with 24V AC:
 
 
 
-The module "ricevitore" where you can connect 4 bistable valve and battery power it from 9V to 14V:
+The module "ricevitore" where you can connect 4 bistable valve and battery power it from 9V to 13V:
 
 1X  [E32-868T20D](https://www.amazon.it/EBYTE-E32-900T20D-Ricetrasmettitore-Trasmettitore-Ricevitore/dp/B098JS7K6P/ref=sr_1_1)
 
@@ -56,13 +57,9 @@ The module "ricevitore" where you can connect 4 bistable valve and battery power
 
 2X  [TB6612FNG Breakout module](https://www.tme.eu/it/details/oky3199-4/comandi-modulari-per-motori/okystar/)
 
-16X [MCP1702-33 LDO Voltage regulator 3.3V](https://www.tme.eu/it/details/ltv-844/optoisolatori-uscita-analogica/liteon/)
+1X [MCP1702-33 LDO Voltage regulator 3.3V](https://www.tme.eu/it/details/mcp1702-3302e_to/stabilizzatori-di-tens-non-regol-ldo/microchip-technology/)
 
-16X Resistor 680 Ohm 2W  - preferred metal oxide type!
-
-16X  Capacitor 100uF 10V
-
-17X  Resistor 10K Ohm 1/4W
+2X  Ceramic Capacitor 1uF
 
 5X [2 pole Screw Connector with pitch 5mm](https://ebmstore.it/index.php?route=product/product&product_id=600)
 
