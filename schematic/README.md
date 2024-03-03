@@ -6,6 +6,8 @@ for select the module address you have to set the jumpers like reported on image
 
 The main board is "modulo MCU" that use:
 
+1X E32-868T30D (you can use E32-868T20D but have minor output power)
+
 1X [Arduino Nano](https://ebmstore.it/index.php?route=product/product&product_id=2233)
 
 1X [Step Down Module fixed to 5V](https://ebmstore.it/index.php?route=product/product&product_id=64)
@@ -44,6 +46,8 @@ The module "module ingressi" where you can connect 16 contact with 24V AC:
 
 
 The module "ricevitore" where you can connect 4 bistable valve and battery power it from 9V to 14V:
+
+1X  [E32-868T20D](https://www.amazon.it/EBYTE-E32-900T20D-Ricetrasmettitore-Trasmettitore-Ricevitore/dp/B098JS7K6P/ref=sr_1_1)
 
 1X  [Arduino Nano 3.3V@8Mhz](https://www.digikey.it/it/products/detail/sparkfun-electronics/DEV-11114/5140819), from the board you have to remove the Power LED and LDO regulator to improve efficiency like picture below:
 
