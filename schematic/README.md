@@ -27,7 +27,7 @@ The main board is "modulo MCU" that use:
 
 The module "module ingressi" where you can connect 16 contact with 24V AC:
 
-1X  [MCP23017-E/SP IC package DIP-28](https://it.aliexpress.com/item/1005005363863079.html)
+1X  [MCP23017-E/SP IC package DIP-28](https://www.tme.eu/it/details/mcp23017-e_sp/circuiti-integrati-interf-rimanenti/microchip-technology/)
 
 16X [LTV844 Optocoupler](https://www.tme.eu/it/details/ltv-844/optoisolatori-uscita-analogica/liteon/)
 
@@ -45,7 +45,7 @@ The module "module ingressi" where you can connect 16 contact with 24V AC:
 
 The module "ricevitore" where you can connect 4 bistable valve and battery power it from 9V to 14V:
 
-2X  [TB6612FNG](https://it.aliexpress.com/item/1005005363863079.html)
+2X  [TB6612FNG](https://www.tme.eu/it/details/oky3199-4/comandi-modulari-per-motori/okystar/)
 
 16X [MCP1702-33](https://www.tme.eu/it/details/ltv-844/optoisolatori-uscita-analogica/liteon/)
 
