@@ -45,9 +45,13 @@ The module "module ingressi" where you can connect 16 contact with 24V AC:
 
 The module "ricevitore" where you can connect 4 bistable valve and battery power it from 9V to 14V:
 
-2X  [TB6612FNG](https://www.tme.eu/it/details/oky3199-4/comandi-modulari-per-motori/okystar/)
+1X  [Arduino Nano 3.3V@8Mhz](https://www.digikey.it/it/products/detail/sparkfun-electronics/DEV-11114/5140819), from the board you have to remove the Power LED and LDO regulator to improve efficiency like picture below:
+![improve_efficiency](https://github.com/studiociodo/Irrigazione-LoRA/assets/150088592/5726c0d6-aa26-41f7-a515-380144912a6c)
 
-16X [MCP1702-33](https://www.tme.eu/it/details/ltv-844/optoisolatori-uscita-analogica/liteon/)
+
+2X  [TB6612FNG Breakout module](https://www.tme.eu/it/details/oky3199-4/comandi-modulari-per-motori/okystar/)
+
+16X [MCP1702-33 LDO Voltage regulator 3.3V](https://www.tme.eu/it/details/ltv-844/optoisolatori-uscita-analogica/liteon/)
 
 16X Resistor 680 Ohm 2W  - preferred metal oxide type!
 
